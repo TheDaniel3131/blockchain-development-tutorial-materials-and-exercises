@@ -9,3 +9,6 @@ Installating these applications & extensions:
 - Nodejs (https://nodejs.org/en/download
 - IntelliJ IDEA JetBrains Ultimate (Optional) [https://www.jetbrains.com/idea/download/?section=windows]
 - IntelliJ IDEA JetBrains Community [https://www.jetbrains.com/idea/download/?section=windows]
+
+
+For the assignment, we need to create a smart contract protocol.
