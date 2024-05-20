@@ -54,7 +54,7 @@
 #  ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/aad0850a-66f0-4a50-a494-82820278eeea)
 
 ### Receive Ether
-#
+# 
 
 ### Receive Ether (Result)
 #
