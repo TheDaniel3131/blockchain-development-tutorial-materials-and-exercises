@@ -22,6 +22,37 @@
 ### Datatype (Result)
 # ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/f6bf4b19-2663-4e79-bc2e-d55850177cad)
 
+### Datatype (Result 2)
+# ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/c1982036-acb0-4dad-98c7-1aceed4114c2)
+
+### If Else
+# ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/e40a606c-f1af-45c1-9513-a3ae03df8bf2)
+
+### If Else (Result)
+# ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/a7cf12b8-0c5a-4a8c-b3ef-0721b4f917db)
+
+### Loop
+# ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/007498b6-0301-47f0-ac8a-9363066e0a99)
+
+### Loop (Result)
+# ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/2beccf1c-e740-4229-8ce2-5a6c5c258e83)
+
+### Array
+# ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/f1ffc35a-92aa-4b0d-9efa-70f84d927baa)
+
+
+### Array (Result)
+# ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/0190c64e-21d0-4bc8-aa37-b0cc35a09d27)
+
+### Array (Result 2)
+# ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/d409b7ee-8a54-4367-8f04-8d0fb3bfee10)
+
+### Mapping
+#
+
+### Mapping (Result)
+# 
+
 
 
 ### Other Questions:
