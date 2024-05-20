@@ -1,7 +1,7 @@
 # Tutorial 1
 
-Remix Ethereum: https://remix.ethereum.org/
-Solidity (Check Versions): https://github.com/ethereum/solidity/releases
+- Remix Ethereum: https://remix.ethereum.org/
+- Solidity (Check Versions): https://github.com/ethereum/solidity/releases
 
 
 
