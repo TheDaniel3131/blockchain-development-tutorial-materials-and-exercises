@@ -48,11 +48,22 @@
 # ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/d409b7ee-8a54-4367-8f04-8d0fb3bfee10)
 
 ### Mapping
-#
+# ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/fa952a56-a4a0-4b78-b515-ec981af14d06)
 
 ### Mapping (Result)
-# 
+#  ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/aad0850a-66f0-4a50-a494-82820278eeea)
 
+### Receive Ether
+#
+
+### Receive Ether (Result)
+#
+
+### Send Ether
+#
+
+### Send Ether (Result)
+#
 
 
 ### Other Questions:
