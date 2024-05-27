@@ -53,17 +53,8 @@
 ### Mapping (Result)
 #  ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/aad0850a-66f0-4a50-a494-82820278eeea)
 
-### Receive Ether
-# 
-
-### Receive Ether (Result)
-#
-
-### Send Ether
-#
-
-### Send Ether (Result)
-#
+### Receive and Send Ether + Result
+# ![image](https://github.com/TheDaniel3131/blockchain-development-tutorial-materials-and-exercises/assets/71692327/45adf0eb-296e-4c6c-89c7-d468a5bb4ea9)
 
 
 ### Other Questions:
